@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarcodeScan</string>
+    <string name="str_scan">Escanear</string>
+    <string name="permission_camera_rationale">Ésta app necesita acceder a la cámara para poder funcionar</string>
+</resources>
